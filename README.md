@@ -7,3 +7,7 @@
 
 - `Adicionar Números:` Salvar o contato na lista.
 - `Pesquisar Números:` Pesquisar os contatos salvos.
+
+<p align="center">
+<img src="https://github.com/emerson1993/lista-telefonica/blob/main/lista-telefonica.gif">
+</p>
